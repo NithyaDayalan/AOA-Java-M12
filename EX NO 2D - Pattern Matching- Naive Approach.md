@@ -1,6 +1,4 @@
-
 # EX 2D Pattern Matching using Naive Approach.
-## DATE:
 ## AIM:
 To write a Java program to for given constraints.
 Given text string with length n and a pattern with length m, the task is to prints all occurrences of pattern in text.
@@ -13,7 +11,7 @@ Output: Pattern found at index 10
 
 Input:  text =  "AABAACAADAABAABA", pattern = "AABA"
 Output: Pattern found at index 0, Pattern found at index 9, Pattern found at index 12
-## Algorithm
+## Algorithm:
 1. 
 2. 
 3. 
@@ -22,11 +20,11 @@ Output: Pattern found at index 0, Pattern found at index 9, Pattern found at ind
 
 ## Program:
 ```
-/*
-Program to implement Reverse a String
-Developed by: 
-Register Number:  
-*/
+Developed by: NITHYA D
+Register Number: 212223240110
+```
+```
+
 ```
 
 ## Output:
